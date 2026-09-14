@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Opus127.Dengue.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "openapi/v1.json",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:54956;http://localhost:54957"
+    }
+  }
+}

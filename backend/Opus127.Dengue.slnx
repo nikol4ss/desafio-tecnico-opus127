@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Opus127.Dengue.Domain/Opus127.Dengue.Domain.csproj" />
+    <Project Path="Opus127.Dengue.Application/Opus127.Dengue.Application.csproj" />
+    <Project Path="Opus127.Dengue.Infrastructure/Opus127.Dengue.Infrastructure.csproj" />
+  </Folder>
+  <Project Path="Opus127.Dengue.Api/Opus127.Dengue.Api.csproj" />
+  <Folder Name="/tests/">
+    <Project Path="tests/Opus127.Dengue.UnitTests/Opus127.Dengue.UnitTests.csproj" />
+  </Folder>
+</Solution>

@@ -427,3 +427,16 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Frontend build and local package cache
+frontend/dist/
+frontend/.vite/
+.pnpm-store/
+
+# Local environment variants
+.env.*
+!.env.example
+
+# Operating system
+Thumbs.db
+.DS_Store
